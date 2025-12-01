@@ -1,3 +1,15 @@
+# case <expression>
+# in <pattern1>
+#   ...
+# in <pattern2>
+#   ...
+# in <pattern3>
+#   ...
+# else
+#   ...
+# end
+
+
 grade = 'C'
 
 result = case grade
